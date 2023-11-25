@@ -2,11 +2,12 @@ import pandas as pd
 
 # Define the data
 data = {
-    "name": ["Item1", "Item2", "Item3"],
+    "Name": ["Jaya", "Jaya", "Jaya"],
     "brand": ["Brand1", "Brand2", "Brand3"],
     "quantity": [10, 20, 30],
     "Status": [True, False, True],
-    "date": ["2023-01-01", "2023-02-01", "2023-03-01"],
+    "entry Time": ["2023-01-01", "2023-02-01", "2023-03-01"],
+    "location": [603, 603, 603],
 }
 
 # Create a DataFrame
