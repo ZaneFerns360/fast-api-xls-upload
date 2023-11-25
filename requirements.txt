@@ -1,0 +1,11 @@
+numpy
+openpyxl
+openssl
+pandas
+uvicorn
+ca-certificates
+certifi
+fastapi
+wheel
+xz
+
